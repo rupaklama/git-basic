@@ -16,11 +16,19 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
+<<<<<<< HEAD
+			Let's fight!
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Rupak Lama 2014</p>
+=======
 			Git is cool!
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Git Training 2014</p>
+>>>>>>> real-work
 	</footer>
 </body>
 </html>
